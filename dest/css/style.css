@@ -5780,7 +5780,7 @@ ul {
 }
 
 .trailers .video-style-2 .slider-nav {
-    background-color: black;
+    background-color: #0b1a2a;
     padding: 0 60px;
     height: 165px;
     margin-top: -5px;
@@ -5811,7 +5811,7 @@ ul {
 }
 
 .trailers .video-style-2 .slider-nav .slick-current {
-    background-color: black;
+    background-color: #1c3d5d;
 }
 
 .trailers .video-style-2 .slider-nav .slick-prev {
@@ -8677,15 +8677,15 @@ p.ceb-single {
 }
 
 .buster-light .trailers {
-    background-color: black;
+    background-color: #f2f6f8;
 }
 
 .buster-light .trailers .videos .thumb-ft {
-    background-color: black;
+    background-color: #d9e6ec;
 }
 
 .buster-light .trailers .videos .thumb-ft .slick-track .slick-current {
-    background-color: black;
+    background-color: #c8d9e1;
 }
 
 .buster-light .trailers .trailer-infor .desc {
@@ -8693,7 +8693,7 @@ p.ceb-single {
 }
 
 .buster-light .trailers .trailer-infor p {
-    color: black;
+    color: #233a50;
 }
 
 .buster-light .trailers .video-style-2 .slider-nav {
@@ -8701,7 +8701,7 @@ p.ceb-single {
 }
 
 .buster-light .trailers .video-style-2 .slider-nav .slick-current {
-    background-color: black;
+    background-color: #c8d9e1;
 }
 
 .buster-light .slick-next:hover:before,
